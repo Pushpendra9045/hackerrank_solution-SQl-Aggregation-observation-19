@@ -1,0 +1,1 @@
+# hackerrank_solution-SQl-Aggregation-observation-19
